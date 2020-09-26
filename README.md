@@ -75,4 +75,3 @@ link : https://gfhd0054.github.io/XD_hifi_proto/
 ## References
 1. jQuery Easing v1.3 - http://gsgd.co.uk/sandbox/jquery/easing/
 2. Create A Custom HTML5 Video Player - https://youtu.be/yY6XnbWnK4o
-3. 
